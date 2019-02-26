@@ -1,11 +1,15 @@
-## Party Girl Soundtrack
+## Party Girl Soundtrack Project
 ![img](https://img.discogs.com/_o-Du4lXzGtc-XEqKKXCz2xiw-k=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11815771-1522862728-8954.jpeg.jpg)
 
 ![img](https://cps-static.rovicorp.com/3/JPG_500/MI0000/078/MI0000078814.jpg?partner=allrovi.com)
 
-You can use the [editor on GitHub](https://github.com/adrianjazz/party-girl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repo is for compiling data about the movie soundtrack for _Party Girl_ (1995), starring Parker Posey. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About the film
+Although Mary (Parker Posey) has little income, she still finds ways to spend her nights at clubs. After being arrested for throwing an illegal rave, she asks her aunt Judy (Sasha von Scherler) for bail money. Judy then finds Mary a job at her library so that Mary can repay her. Initially, Mary finds the job as a clerk boring and stifling, and prefers to get to know a street food vendor (Omar Townsend) whom she likes. However, Mary must refocus her life once she loses her job and apartment.
+
+
+If you are adding to the lyrics file, please use Markdown:
 
 ### Markdown
 
@@ -31,10 +35,3 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrianjazz/party-girl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
