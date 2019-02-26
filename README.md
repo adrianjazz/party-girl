@@ -1,8 +1,6 @@
 ## Party Girl Soundtrack Project
 ![img](https://img.discogs.com/_o-Du4lXzGtc-XEqKKXCz2xiw-k=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11815771-1522862728-8954.jpeg.jpg)
 
-![img](https://cps-static.rovicorp.com/3/JPG_500/MI0000/078/MI0000078814.jpg?partner=allrovi.com)
-
 This repo is for compiling data about the movie soundtrack for _Party Girl_ (1995), starring Parker Posey. 
 
 ### About the film
