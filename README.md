@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages TEST
+## Party Girl Soundtrack
+![img](https://img.discogs.com/_o-Du4lXzGtc-XEqKKXCz2xiw-k=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11815771-1522862728-8954.jpeg.jpg)
+
+![img](https://cps-static.rovicorp.com/3/JPG_500/MI0000/078/MI0000078814.jpg?partner=allrovi.com)
 
 You can use the [editor on GitHub](https://github.com/adrianjazz/party-girl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
