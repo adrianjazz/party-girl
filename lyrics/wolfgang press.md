@@ -1,5 +1,5 @@
-Mama Told Me Not to Come
-The Wolfgang Press
+## Mama Told Me Not to Come
+### The Wolfgang Press
 
 Will you have whiskey with your water
 Or sugar with your tea?
