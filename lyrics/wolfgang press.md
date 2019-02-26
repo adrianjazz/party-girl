@@ -1,5 +1,5 @@
 ## Mama Told Me Not to Come
-### The Wolfgang Press
+### by The Wolfgang Press
 
 Will you have whiskey with your water
 Or sugar with your tea?
@@ -26,5 +26,5 @@ Mama told me not to come
 Mama said, "That ain't no way to have fun"
 
 
-Songwriters: Randy Newman
-Mama Told Me Not to Come lyrics © Warner/Chappell Music, Inc
+_Songwriters: Randy Newman
+Mama Told Me Not to Come lyrics © Warner/Chappell Music, Inc_
